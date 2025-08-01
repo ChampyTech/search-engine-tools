@@ -15,5 +15,7 @@ A collection of useful tools accessible directly from the search engine without 
 - [Flip a coin](https://www.bing.com/search?q=flip+a+coin)
 - [Color picker](https://www.bing.com/search?q=color+picker)
 - [Wheel spinner](https://www.bing.com/search?q=wheel+spinner)
+- [Calculator](https://www.bing.com/search?q=calculator)
+- [Currency converter](https://www.bing.com/search?q=currency%20converter)
 
 ### Google
