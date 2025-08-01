@@ -35,6 +35,7 @@ A collection of useful tools accessible directly from the search engine without 
 - [Breathing exercise](https://www.google.com/search?q=breathing+exercise)
 - [Random fun fact](https://www.google.com/search?q=i%27m+feeling+curious)
 - [Emoji kitchen](https://www.google.com/search?q=emoji+kitchen)
+- [Animal sounds](https://www.google.com/search?q=animal+sounds)
 
 ## 🙏 Contributing
 Got an <b>idea</b>? Want to add something awesome? <a href="." target="_blank">Open an issue or a pull request on GitHub!</a>
