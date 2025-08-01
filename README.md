@@ -19,3 +19,13 @@ A collection of useful tools accessible directly from the search engine without 
 - [Currency converter](https://www.bing.com/search?q=currency%20converter)
 
 ### Google
+- [Translator](https://www.google.com/search?q=translator)
+- [Internet speed test](https://www.google.com/search?q=internet+speed+test)
+- [Stopwatch](https://www.google.com/search?q=stopwatch)
+- [Roll dice](https://www.google.com/search?q=roll+dice)
+- [Timer](https://www.google.com/search?q=timer)
+- [Random number generator](https://www.google.com/search?q=random+number+generator)
+- [Flip a coin](https://www.google.com/search?q=flip+a+coin&oq=flip+a+coin)
+- [Color picker](https://www.google.com/search?q=color+picker)
+- [Calculator](https://www.google.com/search?q=calculator)
+- [Currency converter](https://www.google.com/search?q=currency+converter)
