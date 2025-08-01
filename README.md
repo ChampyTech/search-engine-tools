@@ -34,6 +34,6 @@ A collection of useful tools accessible directly from the search engine without 
 Got an <b>idea</b>? Want to add something awesome? <a href="." target="_blank">Open an issue or a pull request on GitHub!</a>
 
 ## ⚠️ Disclaimer
-By utilizing this website ("A Curated List of Useful Websites"), you acknowledge that this project is not associated with, sponsored by, or endorsed by any of the websites mentioned. Although attempts are made to ensure the information is accurate and current, this collection does not guarantee the accuracy, completeness, or reliability of the content. Modifications to the content of linked websites are outside the control of this project. Users access linked websites at their own risk and discretion.
+By using this list, you acknowledge that this project is not affiliated with, sponsored by, or endorsed by Google, Microsoft, Bing, or any of their associated services. While efforts have been made to ensure that the tools listed are functional and up-to-date, no guarantees are made regarding their availability, accuracy, or reliability. These tools are external features provided by third parties, and their behavior or existence may change at any time. Use them at your own risk and discretion.
 
 Made with ❤️ by <b><a href="https://github.com/ChampyTech" target="_blank">ChampyTech</a></b>
