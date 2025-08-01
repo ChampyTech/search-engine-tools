@@ -10,5 +10,10 @@ A collection of useful tools accessible directly from the search engine without 
 - [Typing test](https://www.bing.com/search?q=typing%20test)
 - [Roll dice](https://www.bing.com/search?q=roll+dice)
 - [Timer](https://www.bing.com/search?q=timer)
+- [Number converter](https://www.bing.com/search?q=number+converter)
+- [Random number generator](https://www.bing.com/search?q=random+number+generator)
+- [Flip a coin](https://www.bing.com/search?q=flip+a+coin)
+- [Color picker](https://www.bing.com/search?q=color+picker)
+- [Wheel spinner](https://www.bing.com/search?q=wheel+spinner)
 
 ### Google
