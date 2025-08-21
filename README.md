@@ -1,6 +1,8 @@
 # 🔨 Search Engine Tools
 A collection of useful tools accessible directly from the search engine without having to visit any external site.
 
+📬 **Want to contribute?** Open a pull request or an issue. Even small contributions are welcome!
+
 ### Bing
 - [Translator](https://www.bing.com/search?q=translator)
 - [Code formatter](https://www.bing.com/search?q=code+formatter)
