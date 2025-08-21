@@ -49,3 +49,7 @@ Open a pull request or an issue. Even small contributions are welcome!
 ## ⚠️ Disclaimer
 
 By using this list, you acknowledge that this project is not affiliated with, sponsored by, or endorsed by any of the platforms, companies, or services mentioned. While efforts have been made to ensure that the tools listed are functional and up-to-date, no guarantees are made regarding their availability, accuracy, or reliability. These tools are external features provided by third parties, and their behavior or availability may change at any time without notice. Use them at your own risk and discretion.
+
+## 🎫 License
+
+This project is licensed under the [MIT License](LICENSE.md).
