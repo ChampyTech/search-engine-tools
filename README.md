@@ -21,6 +21,7 @@ A collection of useful tools accessible directly from the search engine without 
 - [Wheel spinner](https://www.bing.com/search?q=wheel+spinner)
 - [Calculator](https://www.bing.com/search?q=calculator)
 - [Currency converter](https://www.bing.com/search?q=currency%20converter)
+- [URL Encoder & Decoder](https://www.bing.com/search?q=url+encoder+online)
 
 ### Google
 
